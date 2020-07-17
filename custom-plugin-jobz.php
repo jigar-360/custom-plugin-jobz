@@ -2,7 +2,8 @@
 /**
  * Plugin Name: Custom Plugin Jobz
  * Plugin URI: http://www.mywebsite.com/my-first-plugin
- * Description: This plugin will show the shortcode
+ * Slug : custom-plugin-jobz
+ * Description: This plugin will echo the shortcode
  * Version: 1.0
  * Author: Jobz
  * Author URI: http://www.mywebsite.com
